@@ -144,6 +144,11 @@ footer {
 
 
 /*** ABOUT PAGE ***/
+.about-page-container {
+    margin: 0 auto;
+    text-align: center;
+}
+
 .about-hero-image {
     max-width: 100%;
 }
