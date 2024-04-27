@@ -5,7 +5,8 @@ import {
   doc,
   getDocs,
   getDoc,
-  query
+  query,
+  where
 } from "firebase/firestore/lite"
 
 const firebaseConfig = {
