@@ -1,1 +1,1 @@
-Airbnb for Vans
+Airbnb for vans
